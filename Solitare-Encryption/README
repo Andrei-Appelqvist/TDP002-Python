@@ -1,0 +1,7 @@
+Simple implementation of solitaire keystream for encryption of words. Further development needed to handle strings with spaces as they are now just removed.
+
+Run test.py with python3
+
+>> python3 test.py
+
+Made November 2018.

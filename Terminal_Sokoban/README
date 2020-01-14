@@ -1,0 +1,11 @@
+A very simple iteration of the popular game, sokoban, that you can play in the terminal.
+
+To Run the game, open the terminal and run sok.py with python3
+
+>> python3 sok.py
+
+Press enter after your key (WASDQ)
+I suggest trying the second level first. 
+Quit with Q. 
+
+Made November 2018
